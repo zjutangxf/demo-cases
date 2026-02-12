@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# veFaaS
+.vefaas/
+vefaas.yaml
+.vefaasignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
